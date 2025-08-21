@@ -8,8 +8,8 @@ applications/finance/fiscal_localizations/employment_hero.rst applications/hr/pa
 
 # applications/point of sale
 
-content/applications/sales/point_of_sale/payment_methods/terminals/vantiv.rst content/applications/sales/point_of_sale/payment_methods/terminals.rst
-content/applications/sales/point_of_sale/payment_methods/terminals/viva_wallet.rst content/applications/sales/point_of_sale/payment_methods/viva_com.rst   # terminals/viva_wallet.rst --> terminals/viva_com.rst
+applications/sales/point_of_sale/payment_methods/terminals/vantiv.rst applications/sales/point_of_sale/payment_methods/terminals.rst
+applications/sales/point_of_sale/payment_methods/terminals/viva_wallet.rst applications/sales/point_of_sale/payment_methods/terminals/viva_com.rst   # terminals/viva_wallet.rst --> terminals/viva_com.rst
 applications/sales/point_of_sale/shop/customer_display.rst applications/sales/point_of_sale/pos_hardware.rst
 
 # applications/inventory_and_mrp
@@ -41,8 +41,8 @@ applications/productivity/voip/transfer_forward.rst applications/productivity/vo
 
 applications/websites/ecommerce/cart.rst applications/websites/ecommerce/checkout.rst
 applications/websites/website/pages/menus.rst applications/websites/website/pages/header_footer.rst
-applications/websites/website/building_blocks/dynamic_content.rst applications/websites/website/building_blocks.rst
-applications/websites/website/building_blocks/features.rst applications/websites/website/building_blocks.rst
-applications/websites/website/building_blocks/inner_content.rst applications/websites/website/building_blocks.rst
-applications/websites/website/building_blocks/structure.rst applications/websites/website/building_blocks.rst
+applications/websites/website/building_blocks/dynamic_content.rst applications/websites/website/web_design/building_blocks.rst
+applications/websites/website/building_blocks/features.rst applications/websites/website/web_design/building_blocks.rst
+applications/websites/website/building_blocks/inner_content.rst applications/websites/website/web_design/building_blocks.rst
+applications/websites/website/building_blocks/structure.rst applications/websites/website/web_design/building_blocks.rst
 applications/websites/website/pages/menus.rst applications/websites/website/pages/header_footer.rst

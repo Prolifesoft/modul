@@ -53,7 +53,7 @@ Configure the payment method
       The :guilabel:`Tyro Mode` field must be set to :guilabel:`Production Mode`.
 
 Add the payment method to a POS
---------------------------------
+-------------------------------
 
 To add a **payment method** to your point of sale:
 
